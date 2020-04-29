@@ -7,4 +7,5 @@ To check locally for remote branch
 
 check the things to happen locally
 
+Update to check conflit
 Updated the things locally
